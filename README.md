@@ -46,6 +46,8 @@ Finally, the theme offers some little commands for initiate or stop printing tim
 
 
 
+![](./render/simple-oplog.gif)
+
 ## Contact
 
 [Yael Basurto](https://twitter.com/zkvL7)
