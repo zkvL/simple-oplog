@@ -50,5 +50,5 @@ Finally, the theme offers some little commands for initiate or stop printing tim
 
 ## Contact
 
-[Yael Basurto](https://twitter.com/zkvL7)
+[Yael Basurto](https://twitter.com/zkvL_)
 
