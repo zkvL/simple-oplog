@@ -17,7 +17,7 @@ $HOME/.oh-my-zsh/custom
 ```
 
 ```bash
-git clone https://github.com/zkvL7/simple-oplog "$ZSH_CUSTOM/themes/simple-oplog"
+git clone https://github.com/zkvL/simple-oplog "$ZSH_CUSTOM/themes/simple-oplog"
 ln -s "$ZSH_CUSTOM/themes/simple-oplog/simple-oplog.zsh-theme" "$ZSH_CUSTOM/themes/simple-oplog.zsh-theme"
 
 # Set ZSH_THEME="simple-oplog" in your .zshrc & reload terminal
