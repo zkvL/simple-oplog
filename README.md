@@ -1,7 +1,5 @@
 # simple-oplog
 
----
-
 ## Description
 
 simple-oplog is a basic theme for oh-my-zsh which was thought for terminal operators who need to keep track of issued commands timestamps in order to fill in activities logs or for any deconfliction process. It implements some ideas from [Spaceship](https://github.com/denysdovhan/spaceship-prompt.git) & [powerlevel](https://github.com/Powerlevel9k/powerlevel9k.git) (in a very basic form) which are really mature and comprehensive themes to use.
